@@ -1,5 +1,6 @@
-# tinhack
-tinder hack
+# Tinder Hack
+
+Simple Tinder web client with new resources free. Open web client here [https://tinder-hack.herokuapp.com/](https://tinder-hack.herokuapp.com/)
 
 ## To use
 
